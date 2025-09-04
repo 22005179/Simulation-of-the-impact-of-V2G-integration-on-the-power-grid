@@ -2,7 +2,7 @@
 ## AIM
 To Simulate the impact of V2G integration on the power grid
 
-## APPARATUS REQUIRED
+## APPARATUS REQUIRED 
 •	MATLAB
 ## MATLAB CODING
 
